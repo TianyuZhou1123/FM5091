@@ -1,0 +1,7 @@
+D:\Documents\University Life\UMN\Year1\FM5091\Homework4\Normal_Distri_Gene\Normal_Distri_Gene\bin\Debug\Normal_Distri_Gene.exe.config
+D:\Documents\University Life\UMN\Year1\FM5091\Homework4\Normal_Distri_Gene\Normal_Distri_Gene\bin\Debug\Normal_Distri_Gene.exe
+D:\Documents\University Life\UMN\Year1\FM5091\Homework4\Normal_Distri_Gene\Normal_Distri_Gene\bin\Debug\Normal_Distri_Gene.pdb
+D:\Documents\University Life\UMN\Year1\FM5091\Homework4\Normal_Distri_Gene\Normal_Distri_Gene\obj\Debug\Normal_Distri_Gene.csprojAssemblyReference.cache
+D:\Documents\University Life\UMN\Year1\FM5091\Homework4\Normal_Distri_Gene\Normal_Distri_Gene\obj\Debug\Normal_Distri_Gene.csproj.CoreCompileInputs.cache
+D:\Documents\University Life\UMN\Year1\FM5091\Homework4\Normal_Distri_Gene\Normal_Distri_Gene\obj\Debug\Normal_Distri_Gene.exe
+D:\Documents\University Life\UMN\Year1\FM5091\Homework4\Normal_Distri_Gene\Normal_Distri_Gene\obj\Debug\Normal_Distri_Gene.pdb
